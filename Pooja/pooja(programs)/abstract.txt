@@ -1,0 +1,26 @@
+Today we are in a generation where everyone is
+dependent to perform most of their tasks using computers,
+thus making it an integral part of our life. Though computers
+have been with us through several decades, still we follow the
+same, old, primitive methods such as a mouse, keyboard, etc.to
+interact with them. Also, there is a wide range of health
+problems that affect many people, caused by the constant and
+continuous work with the computer. 
+This is where HumanComputer Interaction provides us a solution that focuses
+on the interfaces between users and computers by researching
+the design and use of computer technology, which involves
+using human gestures which constitute a space of motion
+expressed by the body, face, and/or hands. Among a variety of
+gestures, hand gestures are the most expressive and the most
+frequently used. The focus of creating hand gestures is to
+create better communication between humans and computers
+for conveying information. The proposed project aims to
+create a gesture-controlled media player wherein we can use
+our hands and control the video played on the computer.
+Rather than using simple image processing and machine
+learning, with the help of deep learning and neural networks
+several combinations of hand gestures can be recognized with
+increased accuracy by using the CNN.
+
+Human Computer Interaction, Hand gestures, Media player, Deep learning,
+Neural networks, CNN, Object Detection.
